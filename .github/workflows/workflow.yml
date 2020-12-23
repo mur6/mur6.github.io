@@ -1,0 +1,29 @@
+name: Publish to github pages
+on: [push]
+jobs:
+  run:
+    name: Run
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set Node.js 12.x
+        uses: actions/setup-node@v2.1.4
+        with:
+          node-version: 12.x
+      - name: Cache
+        uses: actions/cache@v2.1.3
+        with:
+          path: ~/.npm
+          key: node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            node-
+      - name: npm ci
+        run: npm ci
+      - name: Build
+        run: npx eleventy
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: _site
