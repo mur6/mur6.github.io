@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 3
 ---
 
+https://github.com/mur6
+
 プログラマー、ソフトウェアエンジニア
 - python
 - rust
