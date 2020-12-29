@@ -5,8 +5,25 @@
 	
 	<link href="https://mur6.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://mur6.github.io/"/>
-	<updated>2020-12-23T00:00:00+00:00</updated>
+	<updated>2020-12-29T00:00:00+00:00</updated>
 	<id>https://mur6.github.io/</id>
+	
+	<entry>
+		<title>最近よく読む技術ブログ</title>
+		<link href="https://mur6.github.io/posts/202012/engineer_blogs/"/>
+		<updated>2020-12-29T00:00:00+00:00</updated>
+		<id>https://mur6.github.io/posts/202012/engineer_blogs/</id>
+		<content type="html">&lt;h2 id=&quot;hello-cybernetics&quot;&gt;HELLO CYBERNETICS &lt;a class=&quot;direct-link&quot; href=&quot;#hello-cybernetics&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.hellocybernetics.tech/entry/2020/05/07/235349&quot;&gt;NumPyroとJax Numpyで時系列 - HELLO CYBERNETICS&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;%E4%BD%9C%E3%81%A3%E3%81%A6%E9%81%8A%E3%81%B6%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%80%82&quot;&gt;作って遊ぶ機械学習。 &lt;a class=&quot;direct-link&quot; href=&quot;#%E4%BD%9C%E3%81%A3%E3%81%A6%E9%81%8A%E3%81%B6%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%80%82&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://machine-learning.hatenablog.com/entry/2019/09/09/222250&quot;&gt;MLPシリーズ「ベイズ深層学習」概要まとめ - 作って遊ぶ機械学習。&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;http://machine-learning.hatenablog.com/entry/2018/03/25/010430&quot;&gt;線形回帰を１つ１つ改造して変分オートエンコーダ（VAE）を作る - 作って遊ぶ機械学習。&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;%E3%81%91%E6%97%A5%E8%A8%98&quot;&gt;け日記 &lt;a class=&quot;direct-link&quot; href=&quot;#%E3%81%91%E6%97%A5%E8%A8%98&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://ohke.hateblo.jp/entry/2018/10/06/230000&quot;&gt;scipy.statsでカーネル密度推定 (KDE) - け日記&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://ohke.hateblo.jp/entry/2019/06/29/230000&quot;&gt;NumPyでロジスティック回帰を実装する - け日記&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://ohke.hateblo.jp/entry/2019/06/15/230000&quot;&gt;numpyで無相関化・白色化する - け日記&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>ブログのテスト投稿</title>
