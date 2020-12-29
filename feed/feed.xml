@@ -26,6 +26,17 @@
 	</entry>
 	
 	<entry>
+		<title>フロントエンドに関する話題</title>
+		<link href="https://mur6.github.io/posts/202012/frontend/"/>
+		<updated>2020-12-28T00:00:00+00:00</updated>
+		<id>https://mur6.github.io/posts/202012/frontend/</id>
+		<content type="html">&lt;p&gt;自分が忘れないために、フロントエンドのフレームワークとバンドラーについて調べたページをメモっておく。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zenn.dev/mizchi/articles/b53f539ade1f42&quot;&gt;2021年 は Fullstack Next.js 元年なので、有望な Next.js 系フレームワークを全部試した&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.kabuku.co.jp/developers/ultrafast-tsx-build-tool-esbuild&quot;&gt;[Web フロントエンド] esbuild が爆速すぎて webpack / Rollup にはもう戻れない | Kabuku Developers Blog&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>ブログのテスト投稿</title>
 		<link href="https://mur6.github.io/posts/202012/first/"/>
 		<updated>2020-12-23T00:00:00+00:00</updated>
