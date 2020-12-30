@@ -26,3 +26,7 @@ layout: layouts/post.njk
 ## Qiita
 [pythonでガウス過程を実装する。パラメータの調整はマルコフ連鎖モンテカルロ法（MCMC）を使う - Qiita](https://qiita.com/phyblas/items/d756803ec932ab621c56)
 [サンプリング手法について(自分なりに)わかりやすく書くよ！ - Qiita](https://qiita.com/ysekky/items/16cd279c9be0dfb75217)
+
+### 最尤法
+[最尤法によるパラメータ推定の基礎を理解する(二項分布と正規分布のパラメータの最尤推定量の導出) - Qiita](https://qiita.com/g-k/items/4b2d557c24558074f07f)
+[最尤推定(ガウス分布)に入門する - Qiita](https://qiita.com/harmegiddo/items/1df0909ab6e704ee2348)
