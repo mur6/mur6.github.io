@@ -5,8 +5,20 @@
 	
 	<link href="https://mur6.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://mur6.github.io/"/>
-	<updated>2020-12-31T00:00:00+00:00</updated>
+	<updated>2021-01-02T00:00:00+00:00</updated>
 	<id>https://mur6.github.io/</id>
+	
+	<entry>
+		<title>英単語の辞書</title>
+		<link href="https://mur6.github.io/posts/2021/english_words/"/>
+		<updated>2021-01-02T00:00:00+00:00</updated>
+		<id>https://mur6.github.io/posts/2021/english_words/</id>
+		<content type="html">&lt;p&gt;英単語をテキストファイルにまとめたデータはないか探したところ、次のリポジトリを見つけた。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dwyl/english-words&quot;&gt;dwyl/english-words: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dwyl/english-words/raw/master/words.txt&quot;&gt;https://github.com/dwyl/english-words/raw/master/words.txt&lt;/a&gt; というファイルに46万語おさめられていた。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://githubja.com/dwyl/english-words&quot;&gt;https://githubja.com/dwyl/english-words&lt;/a&gt; このサイトで知ることが出来た。&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Dart入門</title>

@@ -5,6 +5,12 @@
   "feed_url": "https://mur6.github.io/feed/feed.json",
   "description": "blog",
   "items": [{
+      "id": "https://mur6.github.io/posts/2021/english_words/",
+      "url": "https://mur6.github.io/posts/2021/english_words/",
+      "title": "英単語の辞書",
+      "content_html": "<p>英単語をテキストファイルにまとめたデータはないか探したところ、次のリポジトリを見つけた。</p>\n<p><a href=\"https://github.com/dwyl/english-words\">dwyl/english-words: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion</a></p>\n<p><a href=\"https://github.com/dwyl/english-words/raw/master/words.txt\">https://github.com/dwyl/english-words/raw/master/words.txt</a> というファイルに46万語おさめられていた。</p>\n<p><a href=\"https://githubja.com/dwyl/english-words\">https://githubja.com/dwyl/english-words</a> このサイトで知ることが出来た。</p>\n",
+      "date_published": "2021-01-02T00:00:00+00:00"
+    },{
       "id": "https://mur6.github.io/posts/202012/learning_dart/",
       "url": "https://mur6.github.io/posts/202012/learning_dart/",
       "title": "Dart入門",
